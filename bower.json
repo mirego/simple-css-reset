@@ -1,0 +1,11 @@
+{
+  "name": "html-reset",
+  "version": "1.0",
+  "homepage": "https://github.com/mirego/html-reset",
+  "authors": [
+    "Rémi Prévost <rprevost@mirego.com>"
+  ],
+  "description": "A simple, no-nonsense CSS reset stylesheet to use a Bower dependency.",
+  "main": "reset.css",
+  "license": "MIT"
+}
