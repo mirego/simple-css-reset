@@ -7,5 +7,5 @@
   ],
   "description": "A simple, no-nonsense CSS reset stylesheet to use a Bower dependency.",
   "main": "reset.css",
-  "license": "MIT"
+  "license": "BSD 3-Clause"
 }
