@@ -5,7 +5,7 @@
   "authors": [
     "Rémi Prévost <rprevost@mirego.com>"
   ],
-  "description": "A simple, no-nonsense CSS reset stylesheet to use a Bower dependency.",
+  "description": "A simple, no-nonsense CSS reset stylesheet.",
   "main": "reset.css",
-  "license": "BSD 3-Clause"
+  "license": "BSD-3-Clause"
 }
