@@ -2,7 +2,11 @@
   "name": "simple-css-reset",
   "version": "2.0.5",
   "description": "A simple, no-nonsense CSS reset stylesheet.",
+  "scripts": {
+    "lint": "./node_modules/.bin/stylelint --config .stylelintrc reset.css"
+  },
   "main": "reset.css",
+  "files": ["reset.css"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mirego/simple-css-reset.git"
@@ -16,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mirego/simple-css-reset/issues"
   },
-  "homepage": "https://github.com/mirego/simple-css-reset"
+  "homepage": "https://github.com/mirego/simple-css-reset",
+  "devDependencies": {
+    "stylelint": "8.2.0",
+    "stylelint-order": "0.7.0"
+  }
 }
