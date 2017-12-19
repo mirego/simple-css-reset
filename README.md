@@ -2,6 +2,7 @@ simple-css-reset
 ================
 
 [![Build Status](https://travis-ci.org/mirego/simple-css-reset.svg?branch=master)](https://travis-ci.org/mirego/simple-css-reset)
+[![npm](https://img.shields.io/npm/v/simple-css-reset.svg)](https://www.npmjs.com/package/simple-css-reset)
 
 A simple, no-nonsense CSS reset stylesheet.
 
