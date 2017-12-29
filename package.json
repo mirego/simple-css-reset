@@ -6,7 +6,9 @@
     "lint": "./node_modules/.bin/stylelint --config .stylelintrc reset.css"
   },
   "main": "reset.css",
-  "files": ["reset.css"],
+  "files": [
+    "reset.css"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mirego/simple-css-reset.git"
