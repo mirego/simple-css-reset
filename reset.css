@@ -79,6 +79,12 @@ html {
   overflow-y: scroll;
 }
 
+html,
+body {
+  background-color: #fff;
+  color: #000;
+}
+
 *,
 *::before,
 *::after {
