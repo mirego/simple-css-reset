@@ -16,7 +16,21 @@ $ npm install --save simple-css-reset
 
 ### Ember.js
 
-You need the `ember-cli-node-assets` package to be able to import the CSS file into your application. Then you need to add the reset file to the `ember-cli` build file.
+When using Ember 2.15 and up, simply add the css file to your build using `app.import`.
+```js
+// ember-cli-build.js
+module.exports = function(defaults) {
+  const app = new EmberApp(defaults, {
+   // Add options here
+  });
+
+  app.import('node_modules/simple-css-reset/reset.css');
+
+  return app.toTree();
+};
+```
+
+When using Ember 2.14 and below, you need the `ember-cli-node-assets` package to be able to import the CSS file into your application. Then you need to add the reset file to the `ember-cli` build file.
 
 ```bash
 $ npm install --save-dev ember-cli-node-assets
