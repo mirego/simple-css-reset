@@ -1,6 +1,6 @@
 {
   "name": "simple-css-reset",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "A simple, no-nonsense CSS reset stylesheet.",
   "scripts": {
     "lint": "./node_modules/.bin/stylelint --config .stylelintrc reset.css"
