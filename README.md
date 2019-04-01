@@ -55,6 +55,8 @@ import 'simple-css-reset/reset.css';
 
 `simple-css-reset` is © 2014-2019 [Mirego](http://www.mirego.com) and may be freely distributed under the [New BSD license](http://opensource.org/licenses/BSD-3-Clause).  See the [`LICENSE.md`](https://github.com/mirego/simple-css-reset/blob/master/LICENSE.md) file.
 
+The reset logo is based on [this lovely icon by Hali Gali Harun](https://thenounproject.com/term/reset/415758), from The Noun Project. Used under a [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/) license.
+
 ## About Mirego
 
 [Mirego](https://www.mirego.com/en) is a team of passionate people who believe that work is a place where you can innovate and have fun. We're a team of [talented people](https://life.mirego.com/en) who imagine and build beautiful Web and mobile applications. We come together to share ideas and [change the world](http://www.mirego.org/en).
