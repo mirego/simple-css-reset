@@ -2,8 +2,7 @@
   <img src="https://user-images.githubusercontent.com/11348/55351996-cdb7af80-548d-11e9-8a01-7488378a9875.png" width="600" />
   <p><br />A simple, no-nonsense CSS reset stylesheet to use as an NPM dependency.</p>
   <p>
-    <a href="https://travis-ci.com/mirego/simple-css-reset"><img src="https://travis-ci.com/mirego/simple-css-reset.svg?branch=master" />
-  </a>
+    <a href="https://travis-ci.com/mirego/simple-css-reset"><img src="https://travis-ci.com/mirego/simple-css-reset.svg?branch=master" /></a>
     <a href="https://www.npmjs.com/package/simple-css-reset"><img src="https://img.shields.io/npm/v/simple-css-reset.svg" /></a>
   </p>
 </div>
