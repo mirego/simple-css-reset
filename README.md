@@ -49,6 +49,14 @@ $ npm install --save-dev css-loader
 import 'simple-css-reset/reset.css';
 ```
 
+### Gatsby
+
+Since `simple-css-reset` is meant to be used a global reset stylesheet, the best way to use it in Gatsby is including in `gatsby-browser.js`.
+
+```js
+// gatsby-browser.js
+import 'simple-css-reset';
+```
 
 ## License
 
