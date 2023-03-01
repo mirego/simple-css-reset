@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/mirego/simple-css-reset",
   "devDependencies": {
-    "stylelint": "8.2.0",
+    "stylelint": "15.2.0",
     "stylelint-mirego": "^0.2.2",
-    "stylelint-order": "0.7.0"
+    "stylelint-order": "6.0.2"
   }
 }
